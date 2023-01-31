@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import fs from 'fs'
 import matter from 'gray-matter'
 import path from 'path'
