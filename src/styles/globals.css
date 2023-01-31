@@ -35,6 +35,7 @@ header {
 
 header a {
   color: #fff;
+  
 }
 
 .container {
@@ -42,6 +43,26 @@ header a {
   margin: auto;
   overflow: auto;
   padding: 0 10px;
+}
+.logowhl {
+  display: flex;
+  padding: 2px;
+
+
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  padding: 5px;
+}
+
+.link {
+  display: flex;
+  
+}
+.onlink {
+  padding: 10px;
+  
 }
 
 .btn {
