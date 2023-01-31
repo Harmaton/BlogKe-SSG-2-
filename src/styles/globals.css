@@ -27,7 +27,7 @@ img {
 }
 
 header {
-  background: rgb(15, 16, 15);
+  background: rgb(70, 180, 99);
   color: #fff;
   padding: 20px;
   margin-bottom: 20px;
@@ -45,8 +45,8 @@ header a {
 }
 
 .btn {
-  display: inline-block;
-  background: steelblue;
+  display: flex;
+  background: rgb(70, 180, 99);
   color: #fff;
   border: none;
   padding: 8px 16px;
@@ -55,6 +55,7 @@ header a {
   text-decoration: none;
   font-size: 15px;
   font-family: inherit;
+
 }
 
 .btn:focus {
@@ -63,10 +64,11 @@ header a {
 
 .btn:hover {
   transform: scale(0.98);
+
 }
 
 .btn-back {
-  background: #776e6e;
+  background: #9c9292;
   color: #000;
   margin-bottom: 20px;
 }
