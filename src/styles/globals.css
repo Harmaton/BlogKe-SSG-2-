@@ -44,12 +44,12 @@ header a {
   overflow: auto;
   padding: 0 10px;
 }
+
 .logowhl {
   display: flex;
   padding: 2px;
-
-
 }
+
 .logo {
   height: 30px;
   width: 30px;
