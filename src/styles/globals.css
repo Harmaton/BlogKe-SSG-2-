@@ -81,6 +81,7 @@ header a {
 
 .btn:focus {
   outline: none;
+  background: #fff;
 }
 
 .btn:hover {
@@ -89,8 +90,8 @@ header a {
 }
 
 .btn-back {
-  background: #9c9292;
-  color: #000;
+  background: #0d0d0d;
+  color: #fff;
   margin-bottom: 20px;
 }
 
@@ -116,7 +117,7 @@ header a {
 }
 
 .post-date {
-  background: #f4f4f4;
+  background: #9a9696;
   margin-bottom: 20px;
   padding: 3px 10px;
 }
